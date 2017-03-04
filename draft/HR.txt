@@ -1,3 +1,0 @@
-HR width="50%" align="center">
-<HR size="5" width="50%" align="center">
-<HR noshade size="5" width="50%" align="center

@@ -3,4 +3,4 @@ from django.http import HttpResponse
 
 
 def home_page(request):
-    return render(request, 'boards/new1.html')
+    return render(request, 'boards/index.html')
